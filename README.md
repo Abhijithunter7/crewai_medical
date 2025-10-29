@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/Abhijithunter7/crewai_medical/blob/main/ChatGPT%20Image%20Oct%2029%2C%202025%2C%2008_12_32%20PM.png" />
 </div>
 
 # Run this app
